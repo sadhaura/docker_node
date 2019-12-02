@@ -8,7 +8,7 @@ Installation:-
 Clone this repository on your local computer. 
 
 
-1. https://github.com/1wayitsolution/docker_node.git
+1. https://github.com/sadhaura/docker_node.git
 2. cd docker_node
 
 3. docker-compose up -d
